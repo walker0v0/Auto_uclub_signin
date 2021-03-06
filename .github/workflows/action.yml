@@ -1,5 +1,4 @@
 name: 'Uclub Auto Signin'
-
 on:
   workflow_dispatch:
   push:
